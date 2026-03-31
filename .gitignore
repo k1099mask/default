@@ -1,0 +1,42 @@
+# System
+__MACOSX
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea
+.vscode
+*.iml
+
+# node
+/node_modules
+package-lock.json
+
+# vue
+/dist
+
+# composer
+/vendor
+composer.lock
+
+# Java
+target
+
+# Flutter
+.dart_tool
+/build
+pubspec.lock
+.flutter-plugins-dependencies
+.flutter-plugins
+
+# cocos
+/library/
+/temp/
+/local/
+/build/
+native
+/jsb-link/
+/packages/
+/hot-update-tools/manifest/
+/hot-update-tools/test-server/
+/hot-update-tools/versions/
